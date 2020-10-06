@@ -123,7 +123,7 @@ password=your_password
 **Sample Input and Output**
 ```
 Enter team name 
-England 
+South Africa 
 Enter coach name 
 Pravin Amre 
 Enter the city 
